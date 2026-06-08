@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Urano: o planeta da mudança",
+    "slug": "urano-o-planeta-da-mudanca",
+    "date": "2024-02-19",
+    "category": "Planetas e Arquétipos",
+    "excerpt": "Urano como força de ruptura, tecnologia, imprevisibilidade e evolução da consciência da matéria.",
+    "tags": ["Urano", "mudança", "consciência", "ruptura"],
+    "featured": true
+  },
+  {
+    "title": "Saturno e a lei da realidade",
+    "slug": "saturno-e-a-lei-da-realidade",
+    "date": "2024-02-18",
+    "category": "Planetas e Arquétipos",
+    "excerpt": "Saturno como confronto com limite, destino, estrutura, responsabilidade e consequências.",
+    "tags": ["Saturno", "destino", "limite", "estrutura"],
+    "featured": true
+  },
+  {
+    "title": "Constelações Astrológicas Sistêmicas",
+    "slug": "constelacoes-astrologicas-sistemicas",
+    "date": "2024-01-12",
+    "category": "Astrologia Sistêmica",
+    "excerpt": "O mapa natal como campo de consciência, vínculo familiar, padrão invisível e caminho de destino.",
+    "tags": ["constelação", "família", "campo", "mapa natal"],
+    "featured": true
+  },
+  {
+    "title": "Gurdjieff e a liberdade interior",
+    "slug": "gurdjieff-e-a-liberdade-interior",
+    "date": "2023-12-08",
+    "category": "Consciência e Caminho Interior",
+    "excerpt": "Uma porta de entrada para a visão iniciática do blog: escapar da lei geral e buscar liberdade real.",
+    "tags": ["Gurdjieff", "liberdade", "consciência", "lei geral"],
+    "featured": false
+  }
+]
