@@ -1,0 +1,1 @@
+Website para indexar conteúdo do blog CartaCosmica.blogspot.com
