@@ -4,17 +4,20 @@ Site estático para organizar e preservar os textos do blog Carta Cósmica.
 
 ## Estrutura
 
-- `index.html` — página inicial
-- `biblioteca.html` — biblioteca com busca e filtro
-- `comece-aqui.html` — trilha de leitura
-- `arquivo.html` — arquivo cronológico
-- `sobre.html` — apresentação da autora
-- `atendimentos.html` — showcase/contato
-- `textos/` — páginas individuais dos textos
-- `data/posts.json` — índice dos textos
-- `assets/css/style.css` — visual do site
-- `assets/js/site.js` — renderização da biblioteca e busca local
+O site fica dentro de `public/`, para deploy simples no Vercel.
+
+- `public/index.html` — página inicial
+- `public/biblioteca.html` — biblioteca com busca e filtro
+- `public/comece-aqui.html` — trilha de leitura
+- `public/arquivo.html` — arquivo cronológico
+- `public/sobre.html` — apresentação da autora
+- `public/atendimentos.html` — showcase/contato
+- `public/textos/` — páginas individuais dos textos
+- `public/data/posts.json` — índice dos textos
+- `public/assets/css/style.css` — visual do site
+- `public/assets/js/site.js` — renderização da biblioteca e busca local
+- `vercel.json` — configuração de deploy apontando para `public/`
 
 ## Publicação
 
-Como é HTML/CSS/JS puro, pode ser publicado direto no GitHub Pages sem build.
+Projeto estático puro, sem build. No Vercel, o `outputDirectory` está configurado como `public`.
