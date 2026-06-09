@@ -1,38 +1,92 @@
 [
   {
-    "title": "Urano: o planeta da mudança",
-    "slug": "urano-o-planeta-da-mudanca",
-    "date": "2024-02-19",
-    "category": "Planetas e Arquétipos",
-    "excerpt": "Urano como força de ruptura, tecnologia, imprevisibilidade e evolução da consciência da matéria.",
-    "tags": ["Urano", "mudança", "consciência", "ruptura"],
+    "title": "Consideração!",
+    "slug": "consideracao",
+    "date": "2024-06-12",
+    "category": "Consciência e Caminho Interior",
+    "excerpt": "Um texto-manifesto sobre astrologia como escuta do céu, sombra, verdade e participação no todo.",
+    "tags": ["consciência", "sombra", "verdade", "astrologia"],
     "featured": true
   },
   {
-    "title": "Saturno e a lei da realidade",
-    "slug": "saturno-e-a-lei-da-realidade",
-    "date": "2024-02-18",
+    "title": "Urano, Netuno e Plutão: os deuses da mudança",
+    "slug": "urano-netuno-plutao-deuses-da-mudanca",
+    "date": "2024-04-16",
+    "category": "Ciclos Coletivos",
+    "excerpt": "Uma leitura dos transpessoais como forças de ruptura, renovação coletiva e mudança planetária.",
+    "tags": ["Urano", "Netuno", "Plutão", "mudança planetária"],
+    "featured": true
+  },
+  {
+    "title": "Aula da Maturidade",
+    "slug": "aula-da-maturidade",
+    "date": "2024-04-05",
     "category": "Planetas e Arquétipos",
-    "excerpt": "Saturno como confronto com limite, destino, estrutura, responsabilidade e consequências.",
-    "tags": ["Saturno", "destino", "limite", "estrutura"],
+    "excerpt": "Urano como chamada à maturidade espiritual e a uma leitura mais adulta da astrologia.",
+    "tags": ["Urano", "maturidade", "Aquário", "consciência"],
     "featured": true
   },
   {
     "title": "Constelações Astrológicas Sistêmicas",
     "slug": "constelacoes-astrologicas-sistemicas",
-    "date": "2024-01-12",
+    "date": "2024-02-19",
     "category": "Astrologia Sistêmica",
-    "excerpt": "O mapa natal como campo de consciência, vínculo familiar, padrão invisível e caminho de destino.",
+    "excerpt": "O mapa natal como campo simbólico, vínculo familiar, padrão invisível e caminho de destino.",
     "tags": ["constelação", "família", "campo", "mapa natal"],
-    "featured": true
+    "featured": false
   },
   {
-    "title": "Gurdjieff e a liberdade interior",
-    "slug": "gurdjieff-e-a-liberdade-interior",
-    "date": "2023-12-08",
+    "title": "Em busca do sentido!",
+    "slug": "em-busca-do-sentido",
+    "date": "2021-02-12",
     "category": "Consciência e Caminho Interior",
-    "excerpt": "Uma porta de entrada para a visão iniciática do blog: escapar da lei geral e buscar liberdade real.",
-    "tags": ["Gurdjieff", "liberdade", "consciência", "lei geral"],
+    "excerpt": "Victor Frankl, Casa 12 e a liberdade interior como eixo de sobrevivência e sentido.",
+    "tags": ["Victor Frankl", "Casa 12", "sentido", "liberdade"],
+    "featured": false
+  },
+  {
+    "title": "É Ele! É Saturno!",
+    "slug": "e-ele-e-saturno",
+    "date": "2020-07-10",
+    "category": "Planetas e Arquétipos",
+    "excerpt": "Saturno como regente de limite, rigor, prestação de contas e liberdade interior.",
+    "tags": ["Saturno", "limite", "liberdade", "responsabilidade"],
+    "featured": false
+  },
+  {
+    "title": "Astrologia da 5ª Dimensão",
+    "slug": "astrologia-da-5a-dimensao",
+    "date": "2020-07-10",
+    "category": "Astrologia Essencial",
+    "excerpt": "Uma proposta de astrologia como passagem de consciência, além da identificação rígida com o mapa.",
+    "tags": ["5ª dimensão", "Saturno", "transpessoais", "liberdade"],
+    "featured": false
+  },
+  {
+    "title": "Orgulho e Vaidade!",
+    "slug": "orgulho-e-vaidade",
+    "date": "2020-05-01",
+    "category": "Reflexões",
+    "excerpt": "Lua em Leão, Marte, sombra coletiva, vaidade e o impulso de observar o próprio lugar no mundo.",
+    "tags": ["Leão", "Marte", "sombra", "vaidade"],
+    "featured": false
+  },
+  {
+    "title": "Agradecimento aos Antepassados",
+    "slug": "agradecimento-aos-antepassados",
+    "date": "2020-04-20",
+    "category": "Reflexões",
+    "excerpt": "Um texto breve de gratidão à linhagem, à vida recebida e aos ancestrais que acompanham o caminho.",
+    "tags": ["ancestrais", "gratidão", "linhagem", "vida"],
+    "featured": false
+  },
+  {
+    "title": "Acabou o mundo que conhecíamos!",
+    "slug": "acabou-o-mundo-que-conheciamos",
+    "date": "2020-04-20",
+    "category": "Ciclos Coletivos",
+    "excerpt": "Uma leitura da mudança de era, queda de referenciais e necessidade de encontrar sentido em outro nível.",
+    "tags": ["Era de Aquário", "mudança", "coletivo", "sentido"],
     "featured": false
   }
 ]
