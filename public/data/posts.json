@@ -5,8 +5,22 @@
     "date": "2024-06-12",
     "category": "Consciência e Caminho Interior",
     "excerpt": "Um texto-manifesto sobre astrologia como escuta do céu, sombra, verdade e participação no todo.",
-    "tags": ["consciência", "sombra", "verdade", "astrologia"],
+    "tags": [
+      "consciência",
+      "sombra",
+      "verdade",
+      "astrologia"
+    ],
     "featured": true
+  },
+  {
+    "title": "12dejunhode2019 ·  Consideração",
+    "slug": "1-2-d-e-j-u-n-h-o-d-e-2-0-1-9",
+    "date": "2024-06-12",
+    "category": "Arquivo Blog",
+    "excerpt": "1 2 d e j u n h o d e 2 0 1 9 ·  Consideração! Ontem escrevi um artigo falando de algumas das questões do signo de Libra. Ontem, Marte lançava uma qua...",
+    "tags": [],
+    "featured": false
   },
   {
     "title": "Urano, Netuno e Plutão: os deuses da mudança",
@@ -14,8 +28,22 @@
     "date": "2024-04-16",
     "category": "Ciclos Coletivos",
     "excerpt": "Uma leitura dos transpessoais como forças de ruptura, renovação coletiva e mudança planetária.",
-    "tags": ["Urano", "Netuno", "Plutão", "mudança planetária"],
+    "tags": [
+      "Urano",
+      "Netuno",
+      "Plutão",
+      "mudança planetária"
+    ],
     "featured": true
+  },
+  {
+    "title": "Urano, netuno e plutão os deuses da mudança",
+    "slug": "urano-netuno-e-plutao-os-deuses-da",
+    "date": "2024-04-16",
+    "category": "Arquivo Blog",
+    "excerpt": "URANO, NETUNO E PLUTÃO OS DEUSES DA MUDANÇA! Tudo o que me acontece é a expressão do amor absoluto em meu favor! Vamos lembrar o tempo todo disto! Se...",
+    "tags": [],
+    "featured": false
   },
   {
     "title": "Aula da Maturidade",
@@ -23,16 +51,44 @@
     "date": "2024-04-05",
     "category": "Planetas e Arquétipos",
     "excerpt": "Urano como chamada à maturidade espiritual e a uma leitura mais adulta da astrologia.",
-    "tags": ["Urano", "maturidade", "Aquário", "consciência"],
+    "tags": [
+      "Urano",
+      "maturidade",
+      "Aquário",
+      "consciência"
+    ],
     "featured": true
   },
   {
-    "title": "Constelações Astrológicas Sistêmicas",
+    "title": "Aula da Maturidade Devido a entrada de Urano em Touro, segue um pequeno artigo s",
+    "slug": "aula-da-maturidade-devido-entrada-de",
+    "date": "2024-04-05",
+    "category": "Arquivo Blog",
+    "excerpt": "Aula da Maturidade Devido a entrada de Urano em Touro, segue um pequeno artigo sobre o planeta. Isso não significa que a ação uraniana será mais enfát...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Constelações astrológicas sistêmicas",
     "slug": "constelacoes-astrologicas-sistemicas",
     "date": "2024-02-19",
     "category": "Astrologia Sistêmica",
-    "excerpt": "O mapa natal como campo simbólico, vínculo familiar, padrão invisível e caminho de destino.",
-    "tags": ["constelação", "família", "campo", "mapa natal"],
+    "excerpt": "CONSTELAÇÕES ASTROLÓGICAS SISTÊMICAS As constelações Familiares segundo Bert Hellinger são amplamente conhecidas e divulgadas tanto no Brasil como no...",
+    "tags": [
+      "constelação",
+      "família",
+      "campo",
+      "mapa natal"
+    ],
+    "featured": false
+  },
+  {
+    "title": "ooSsntrepd6ioetbf46u0d67umgor38cf1211f80",
+    "slug": "o-o-s-s-n-t-r-e-p-d-6-i-o-e-t-b-f-4-6-u",
+    "date": "2024-02-19",
+    "category": "Arquivo Blog",
+    "excerpt": "o o S s n t r e p d 6 i o e t b f 4 6 u 0 d 6 7 u m g o r 3 8 c f 1 2 1 1 f 8 0 d 2 c a 1 1 6 2 1 9 u e g u 2 0 ·  CONSTELAÇÕES ASTROLÓGICAS SISTÊMICA...",
+    "tags": [],
     "featured": false
   },
   {
@@ -41,7 +97,21 @@
     "date": "2021-02-12",
     "category": "Consciência e Caminho Interior",
     "excerpt": "Victor Frankl, Casa 12 e a liberdade interior como eixo de sobrevivência e sentido.",
-    "tags": ["Victor Frankl", "Casa 12", "sentido", "liberdade"],
+    "tags": [
+      "Victor Frankl",
+      "Casa 12",
+      "sentido",
+      "liberdade"
+    ],
+    "featured": false
+  },
+  {
+    "title": "EM BUSCA DO SENTIDO",
+    "slug": "em-busca-do-sentido-victor-frankl-foi",
+    "date": "2021-02-12",
+    "category": "Arquivo Blog",
+    "excerpt": "EM BUSCA DO SENTIDO! Victor Frankl foi um psiquiatra austríaco. Em 1942, Viktor, sua mulher grávida e família, que são judeus, são deportados para dif...",
+    "tags": [],
     "featured": false
   },
   {
@@ -50,7 +120,12 @@
     "date": "2020-07-10",
     "category": "Planetas e Arquétipos",
     "excerpt": "Saturno como regente de limite, rigor, prestação de contas e liberdade interior.",
-    "tags": ["Saturno", "limite", "liberdade", "responsabilidade"],
+    "tags": [
+      "Saturno",
+      "limite",
+      "liberdade",
+      "responsabilidade"
+    ],
     "featured": false
   },
   {
@@ -59,7 +134,30 @@
     "date": "2020-07-10",
     "category": "Astrologia Essencial",
     "excerpt": "Uma proposta de astrologia como passagem de consciência, além da identificação rígida com o mapa.",
-    "tags": ["5ª dimensão", "Saturno", "transpessoais", "liberdade"],
+    "tags": [
+      "5ª dimensão",
+      "Saturno",
+      "transpessoais",
+      "liberdade"
+    ],
+    "featured": false
+  },
+  {
+    "title": "E ele e saturno vai caminhando nao ha_10",
+    "slug": "e-ele-e-saturno-vai-caminhando-nao-ha_10",
+    "date": "2020-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "É Ele! É SATURNO! Vai caminhando! Não há outra alternativa, senão continuar caminhando. Não é você que leva a vida, é a vida que te leva. De alguma ma...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "ASTROLOGIA DA 5a DIMENSÃO Durante séculos astrólogos até com boas intenções ( ou",
+    "slug": "astrologia-da-5a-dimensao-durante",
+    "date": "2020-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "ASTROLOGIA DA 5a DIMENSÃO Durante séculos astrólogos até com boas intenções ( ou não, não sei) tem estimulado as pessoas a se identificarem com seus m...",
+    "tags": [],
     "featured": false
   },
   {
@@ -68,7 +166,21 @@
     "date": "2020-05-01",
     "category": "Reflexões",
     "excerpt": "Lua em Leão, Marte, sombra coletiva, vaidade e o impulso de observar o próprio lugar no mundo.",
-    "tags": ["Leão", "Marte", "sombra", "vaidade"],
+    "tags": [
+      "Leão",
+      "Marte",
+      "sombra",
+      "vaidade"
+    ],
+    "featured": false
+  },
+  {
+    "title": "ORGULHO E VAIDADE",
+    "slug": "orgulho-e-vaidade-lua-transita-em-leao",
+    "date": "2020-05-01",
+    "category": "Arquivo Blog",
+    "excerpt": "ORGULHO E VAIDADE! A Lua transita em Leão em oposição a Marte, sinalizando que a arrogância , a vaidade, o orgulho e a arte de se colocar em um lugar...",
+    "tags": [],
     "featured": false
   },
   {
@@ -77,7 +189,12 @@
     "date": "2020-04-20",
     "category": "Reflexões",
     "excerpt": "Um texto breve de gratidão à linhagem, à vida recebida e aos ancestrais que acompanham o caminho.",
-    "tags": ["ancestrais", "gratidão", "linhagem", "vida"],
+    "tags": [
+      "ancestrais",
+      "gratidão",
+      "linhagem",
+      "vida"
+    ],
     "featured": false
   },
   {
@@ -86,7 +203,687 @@
     "date": "2020-04-20",
     "category": "Ciclos Coletivos",
     "excerpt": "Uma leitura da mudança de era, queda de referenciais e necessidade de encontrar sentido em outro nível.",
-    "tags": ["Era de Aquário", "mudança", "coletivo", "sentido"],
+    "tags": [
+      "Era de Aquário",
+      "mudança",
+      "coletivo",
+      "sentido"
+    ],
+    "featured": false
+  },
+  {
+    "title": "AGRADECIMENTO AOS ANTEPASSADOS A meu avô, Frederico Fridlund, membro da Sociedad",
+    "slug": "agradecimento-aos-antepassados-meu-avo",
+    "date": "2020-04-20",
+    "category": "Arquivo Blog",
+    "excerpt": "AGRADECIMENTO AOS ANTEPASSADOS A meu avô, Frederico Fridlund, membro da Sociedade Teosófica Universal, cujo diploma contém a assinatura da própria Ann...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Acabou o mundo que conhecíamos",
+    "slug": "acabou-o-mundo-que-conheciamos-como",
+    "date": "2020-04-20",
+    "category": "Arquivo Blog",
+    "excerpt": "ACABOU O MUNDO QUE CONHECÍAMOS! Como tanto avisamos, o mundo mudou! Mudou, não acabou! Todos os nossos referenciais caíram por terra, tudo o que const...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "De onde vem sua energia",
+    "slug": "de-onde-vem-sua-energia-ouvi-de-meu",
+    "date": "2020-04-20",
+    "category": "Arquivo Blog",
+    "excerpt": "DE ONDE VEM SUA ENERGIA? Ouvi de meu Mestre, que ele me ensinaria o potencial de energia inesgotável. Ouvir ou ler alguma coisa é apenas crer, entendi...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "A saga do signo de câncer",
+    "slug": "a-saga-do-signo-de-cancer-existe-os",
+    "date": "2019-12-20",
+    "category": "Arquivo Blog",
+    "excerpt": "A SAGA DO SIGNO DE CÂNCER! Existe os planetas pessoais: Lua, Mercúrio, Vênus e Marte. Esses planetas estão encarregados da sobrevivência física! Em se...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "A minha trilha é uma trilha árdua, pesada, cheia de espinhos, mas eu viajo leve",
+    "slug": "a-minha-trilha-e-uma-trilha-ardua",
+    "date": "2019-11-24",
+    "category": "Arquivo Blog",
+    "excerpt": "A MINHA TRILHA É UMA TRILHA ÁRDUA, PESADA, CHEIA DE ESPINHOS, MAS EU VIAJO LEVE NELA! Abraham Bragança de Vasconcellos Weintraub - Ministro da Educaçã...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "A JORNADA DE URANO ATÉ 14 ANOS PARA FRENTE Não esqueçam, Urano em Touro é fogo n",
+    "slug": "a-jornada-de-urano-ate-14-anos-para",
+    "date": "2019-09-25",
+    "category": "Arquivo Blog",
+    "excerpt": "A JORNADA DE URANO ATÉ 14 ANOS PARA FRENTE Não esqueçam, Urano em Touro é fogo na terra! Os incêndios na amazônia não são nada diante do que a terra e...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "As Sete Leis Herméticas 1 - O Princípio do MENTALISMO: \"O todo é Mente; o univer",
+    "slug": "as-sete-leis-hermeticas-1-o-principio",
+    "date": "2019-07-21",
+    "category": "Arquivo Blog",
+    "excerpt": "As Sete Leis Herméticas 1 - O Princípio do MENTALISMO: \"O todo é Mente; o universo é mental.\" A primeira e mais importante lei hermética fala basicame...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Magali Pierri 59 min · CONFLITO ENTRE HUMANOS",
+    "slug": "magali-pierri-59-min-conflito-entre",
+    "date": "2019-06-11",
+    "category": "Arquivo Blog",
+    "excerpt": "Magali Pierri 59 min · CONFLITO ENTRE HUMANOS! Em tempo de Vênus em Gêmeos! Marte x Vênus! A Lua em Libra sempre foge da luta! Só que hoje ela está se...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "O Peixe morre pela boca",
+    "slug": "o-peixe-morre-pela-boca-o-que-aconteceu",
+    "date": "2019-05-26",
+    "category": "Arquivo Blog",
+    "excerpt": "O Peixe morre pela boca! O QUE ACONTECEU COM KIM KATAGUIRI? Em nosso último post falamos da função da retrogradação dos planetas. Os principais protag...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "OM MANI PADME HUM O único país do mundo que devotou toda a sua genialidade para",
+    "slug": "om-mani-padme-hum-o-unico-pais-do-mundo",
+    "date": "2019-04-23",
+    "category": "Arquivo Blog",
+    "excerpt": "OM MANI PADME HUM O único país do mundo que devotou toda a sua genialidade para a auto exploração é o Tibet. São descobertas de tremendo valor. OM MAN...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "aturidade 2 LIBRAEAAVERSÃO À RADICALIDADE",
+    "slug": "aturidade-2-libra-e-aversao",
+    "date": "2019-04-22",
+    "category": "Arquivo Blog",
+    "excerpt": "aturidade 2 LIBRA E A AVERSÃO À RADICALIDADE! DANILO GENTILE E LOBÃO, dois librianos integrados! Marte é o planeta mais importante para a sobrevivênci...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Urano nos signos fixos",
+    "slug": "urano-nos-signos-fixos-os-signos-fixos",
+    "date": "2019-04-22",
+    "category": "Arquivo Blog",
+    "excerpt": "URANO NOS SIGNOS FIXOS! Os signos fixos, Touro, Leão, Escorpião e Aquário, até agora não tão afetados pelas mudanças e transformações que estamos vive...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "AULA DE MATURIDADE",
+    "slug": "aula-de-maturidade-devido-entrada-de",
+    "date": "2019-04-22",
+    "category": "Arquivo Blog",
+    "excerpt": "AULA DE MATURIDADE! Devido a entrada de Urano em Touro, segue um pequeno artigo sobre o planeta. Isso não significa que a ação uraniana será mais enfá...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Planetas debilitados e destino",
+    "slug": "planetas-debilitados-e-destino-se-voce",
+    "date": "2019-04-07",
+    "category": "Arquivo Blog",
+    "excerpt": "PLANETAS DEBILITADOS E DESTINO! Se você é um taurino de Sol ou Ascendente, descubra se sua Vênus não está no signo e Áries! Vênus é a regente, o fator...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "URANO Aula da Maturidade Devido a entrada de Urano em Touro, segue um pequeno ar",
+    "slug": "urano-aula-da-maturidade-devido-entrada",
+    "date": "2019-04-05",
+    "category": "Arquivo Blog",
+    "excerpt": "URANO Aula da Maturidade Devido a entrada de Urano em Touro, segue um pequeno artigo sobre o planeta. Isso não significa que a ação uraniana será mais...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Gilmar Mendes -  Sem horário Publicado em 20 de Março, 2019 Apareceu a estrela d",
+    "slug": "gilmar-mendes-30-de-dezembro-de-1955",
+    "date": "2019-03-20",
+    "category": "Arquivo Blog",
+    "excerpt": "Gilmar Mendes - 30 de Dezembro de 1955 Sem horário Publicado em 20 de Março, 2019 Apareceu a estrela da festa, o capricorniano Gilmar Mendes! É um cap...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Invictus eu sou o mestre de minha alma",
+    "slug": "invictus-eu-sou-o-mestre-de-minha-alma",
+    "date": "2019-03-14",
+    "category": "Arquivo Blog",
+    "excerpt": "INVICTUS EU SOU O MESTRE DE MINHA ALMA. EU SOU O CAPITÃO DO MEU DESTINO! Do fundo desta noite que persiste A me envolver em breu - eterno e espesso, A...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "2019 - o ano de marte",
+    "slug": "2019-o-ano-de-marte-publicado-em-17-de",
+    "date": "2019-03-14",
+    "category": "Arquivo Blog",
+    "excerpt": "2019 - O ANO DE MARTE! Publicado em 17 de Dezembro de 2018 Marte é o arquétipo do guerreiro! O masculino foi extremamente reprimido durante as últimas...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Mapa da nova independência do brasil",
+    "slug": "blog-post_14",
+    "date": "2019-03-14",
+    "category": "Arquivo Blog",
+    "excerpt": "MAPA DA NOVA INDEPENDÊNCIA DO BRASIL! Publicado em 1o de Janeiro de 2019! Sinastria do mapa do Brasil com o mapa natal do novo Presidente da República...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Saturno e Plutão em Capricórnio",
+    "slug": "blog-post",
+    "date": "2019-03-14",
+    "category": "Arquivo Blog",
+    "excerpt": "Saturno e Plutão em Capricórnio! Publicado em 05 de Janeiro, 2019 As coisas estão ficando muito sérias para quem não está alinhado com a impecabilidad...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Publicado em  - Facebook TERRA EM TRANSFORMAÇÃO - HUMANOS EM TRANSFORMAÇÃO",
+    "slug": "publicado-em-31-de-janeiro-de-2018",
+    "date": "2019-03-14",
+    "category": "Arquivo Blog",
+    "excerpt": "Publicado em 31 de Janeiro de 2018 - Facebook TERRA EM TRANSFORMAÇÃO - HUMANOS EM TRANSFORMAÇÃO! A Lua transita em Áries junto com Marte, fazendo uma...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Publicado em  - Facebook VAIDADE, MEU PECADO FAVORITO",
+    "slug": "vaidade-meu-pecado-favorito-ultimas",
+    "date": "2019-03-14",
+    "category": "Arquivo Blog",
+    "excerpt": "Publicado em 31 de Janeiro de 2019 - Facebook VAIDADE, MEU PECADO FAVORITO! Últimas palavras do Diabo no filme O Advogado do Diabo! Diante da desconfi...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Lua crescendo em Virgem Chave de Matrix: O TRABALHO DIGNIFICA O HOMEM",
+    "slug": "lua-crescendo-em-virgem-chave-de-matrix",
+    "date": "2017-07-29",
+    "category": "Arquivo Blog",
+    "excerpt": "Lua crescendo em Virgem Chave de Matrix: O TRABALHO DIGNIFICA O HOMEM! Você consegue se lembrar da primeira vez que ouviu essa frase? E de quantas vez...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Revendo Paradigmas: Caridade",
+    "slug": "revendo-paradigmas-caridade",
+    "date": "2016-06-18",
+    "category": "Arquivo Blog",
+    "excerpt": "REVENDO PARADIGMAS: CARIDADE No mundo contemporâneo, torna-se quase um pecado capital não reverenciar a caridade. Dois mil anos de condicionamento faz...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Postado no Facebook no dia",
+    "slug": "postado-no-facebook-no-dia-02-de",
+    "date": "2016-04-21",
+    "category": "Arquivo Blog",
+    "excerpt": "Postado no Facebook no dia 02 de Dezembro de 2015! Naquele momento tudo era confuso e incerto. Até a foto foi profética, ali ainda não havia sido divu...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "E Saturno pegou Chico",
+    "slug": "gemeos-sombra-e-luz-e-saturno-pegou",
+    "date": "2016-01-21",
+    "category": "Arquivo Blog",
+    "excerpt": "E Saturno pegou Chico! Gêmeos rege as palavras!Certamente o boêmio malandro da zona sul do Rio de Janeiro, desconsideraria a Astrologia, seus valores...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "DIA DO ASTRÓLOGO - 06 de Janeiro Os chamados 3 Reis Magos, não eram reis , mas A",
+    "slug": "dia-do-astrologo-06-de-janeiro-os",
+    "date": "2015-01-07",
+    "category": "Arquivo Blog",
+    "excerpt": "DIA DO ASTRÓLOGO - 06 de Janeiro Os chamados 3 Reis Magos, não eram reis , mas Astrólogos, que através dos estudos do céu, descobriram não só a data d...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "INOCÊNCIA Plutão em conjunção com Mercúrio",
+    "slug": "inocencia-plutao-em-conjuncao-com",
+    "date": "2014-12-26",
+    "category": "Arquivo Blog",
+    "excerpt": "INOCÊNCIA Plutão em conjunção com Mercúrio! Durante aproximadamente 8 dias ainda teremos esse aspecto no céu. Mercúrio, que rege a mente está junto co...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Eclipse de outubro de 2014",
+    "slug": "eclipse-de-outubro-de-2014",
+    "date": "2014-10-22",
+    "category": "Arquivo Blog",
+    "excerpt": "Eclipse do dia 23 de Outubro de 2014 Dados técnicos: Eclipse parcial Solar : 23 de Outubro de 2014 - 18:53 hs Horário: Das 18.53 hs até 23:55 hs Essa...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "O ZENEAEXPRESSÃO MARCIANA MARTE A mais elevada expressão da Consciência Marci",
+    "slug": "o-zen-e-expressao-marciana-marte-mais",
+    "date": "2014-04-24",
+    "category": "Arquivo Blog",
+    "excerpt": "O ZEN E A EXPRESSÃO MARCIANA MARTE A mais elevada expressão da Consciência Marciana é a disciplina. E, ao contrário do que muitos imaginam, a discipli...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Roseana sarney por dentro",
+    "slug": "roseana-sarney-por-dentro-falta-tempero",
+    "date": "2014-01-16",
+    "category": "Arquivo Blog",
+    "excerpt": "ROSEANA SARNEY POR DENTRO! Falta tempero nas descrições astrológicas de mapas de famosos, assim, resolvi investigar o mapa de Roseana Sarney pelo fato...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "OS SIGNOS CARDINAISEACRUZ DO MAPA A mandala astrológica é simbolicamente sust",
+    "slug": "os-signos-cardinais-e-cruz-do-mapa",
+    "date": "2013-12-14",
+    "category": "Arquivo Blog",
+    "excerpt": "OS SIGNOS CARDINAIS E A CRUZ DO MAPA A mandala astrológica é simbolicamente sustentada pela cruz cardinal, representada pelos signos Áries, Libra, Cap...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "SAÚDE E DOENÇA Muitas pessoas com muitas boas intenções, sem perceber estão a se",
+    "slug": "saude-e-doenca-muitas-pessoas-com",
+    "date": "2013-11-15",
+    "category": "Arquivo Blog",
+    "excerpt": "SAÚDE E DOENÇA Muitas pessoas com muitas boas intenções, sem perceber estão a serviço de uma divulgação bastante perniciosa: a de que a doença é norma...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "E o sol entra em escorpião",
+    "slug": "e-o-sol-entra-em-escorpiao-o-que-isso",
+    "date": "2013-10-22",
+    "category": "Arquivo Blog",
+    "excerpt": "E O SOL ENTRA EM ESCORPIÃO! o que isso significa além das tradicionais descrições sobre o signo de Escorpião? Deixemos de lado as descrições e vamos e...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "O FATOR LIBRA NA HUMANIDADE O Fator Libra na humanidade recebe um convite/intima",
+    "slug": "o-fator-libra-na-humanidade-o-fator",
+    "date": "2013-10-12",
+    "category": "Arquivo Blog",
+    "excerpt": "O FATOR LIBRA NA HUMANIDADE O Fator Libra na humanidade recebe um convite/intimação para comparecer ao Tribunal da Verdade. O Sol em Libra está enquad...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "AQUÁRIO NO COLETIVO Aquarianos, seu regente, Urano está em quadratura com Plutão",
+    "slug": "aquario-no-coletivo-aquarianos-seu",
+    "date": "2013-10-10",
+    "category": "Arquivo Blog",
+    "excerpt": "AQUÁRIO NO COLETIVO Aquarianos, seu regente, Urano está em quadratura com Plutão e assim vai permanecer ainda por alguns anos. Você está adentrando no...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Mercúrio entra em escorpião",
+    "slug": "mercurio-entra-em-escorpiao-verdade",
+    "date": "2013-10-02",
+    "category": "Arquivo Blog",
+    "excerpt": "MERCÚRIO ENTRA EM ESCORPIÃO! A verdade, somente a Verdade, nada mais que a Verdade! Mercúrio entra em Escorpião! Certo, os véus estão caindo, as verda...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Existem três energias do Universo, representadas por Brahaman, Vishnu e Sheeva",
+    "slug": "existem-tres-energias-do-universo",
+    "date": "2013-09-23",
+    "category": "Arquivo Blog",
+    "excerpt": "Existem três energias do Universo, representadas por Brahaman, Vishnu e Sheeva. No hinduísmo, alem de serem representadas por esses deuses, também são...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Episódio Mensalão",
+    "slug": "episodio-mensalao-peixes-e-netuno_19",
+    "date": "2013-09-19",
+    "category": "Arquivo Blog",
+    "excerpt": "Episódio Mensalão! PEIXES E NETUNO: DESENGANOS! A Lua cheia de Peixes trouxe o desengano e a desilusão para o coração do brasileiro. Mas devemos nos l...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "A Lua vai crescendo em Peixes, se encaminhando para uma conjunção com Netuno",
+    "slug": "a-lua-vai-crescendo-em-peixes-se",
+    "date": "2013-09-17",
+    "category": "Arquivo Blog",
+    "excerpt": "A Lua vai crescendo em Peixes, se encaminhando para uma conjunção com Netuno. Vigie sua mente! Toda a maestria está em deslocar a atenção daquilo que...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Aspectos tensos no mapa: Quadratura - ângulo de 90° entre dois planetas",
+    "slug": "aspectos-tensos-no-mapa-quadratura",
+    "date": "2013-09-11",
+    "category": "Arquivo Blog",
+    "excerpt": "Aspectos tensos no mapa: Quadratura - ângulo de 90° entre dois planetas. Existem 3 tipos de quadratura, a cardinal ( de impulso), a fixa e a mutável....",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Stellium Planetário em em Virgem SOL, LUA E MERCÚRIO EM VIRGEM Com o Sol e Mercú",
+    "slug": "stellium-planetario-em-em-virgem-sol",
+    "date": "2013-09-05",
+    "category": "Arquivo Blog",
+    "excerpt": "Stellium Planetário em em Virgem SOL, LUA E MERCÚRIO EM VIRGEM Com o Sol e Mercúrio em Virgem é preciso rever a questão do trabalho em nossas vidas. É...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "SIMPLICIDADE",
+    "slug": "simplicidade-lua-entra-em-virgem-nesse",
+    "date": "2013-09-04",
+    "category": "Arquivo Blog",
+    "excerpt": "SIMPLICIDADE! A Lua entra em Virgem! Nesse momento temos os dois luminares ( Sol e Lua), mais Mercúrio em Virgem, um signo de Terra que cuida das ativ...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "ENTENDENDO ASTROLOGIA Quando seu horóscopo fala de seu signo solar, ele não está",
+    "slug": "entendendo-astrologia-quando-seu",
+    "date": "2013-09-04",
+    "category": "Arquivo Blog",
+    "excerpt": "ENTENDENDO ASTROLOGIA Quando seu horóscopo fala de seu signo solar, ele não está considerando seu mapa por inteiro, mas somente o signo onde o Sol est...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "SAINDO DA MATRIZ Da Atuação Marciana Onde está Marte, é o lugar da encrenca no m",
+    "slug": "saindo-da-matriz-da-atuacao-marciana-e",
+    "date": "2013-08-29",
+    "category": "Arquivo Blog",
+    "excerpt": "SAINDO DA MATRIZ Da Atuação Marciana Onde está Marte, é o lugar da encrenca no mapa de cada um. Verifique seu Marte natal e veja se não é daquela área...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Marte entra em Leão",
+    "slug": "marte-entra-em-leao-saindo-do-doloroso",
+    "date": "2013-08-28",
+    "category": "Arquivo Blog",
+    "excerpt": "Marte entra em Leão! Saindo do doloroso signo de Câncer onde Marte se afoga e arranha, agora é fogo com fogo! Talvez tantos trânsitos pesados que vem...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Agôsto - 2013 Aries: Você tem que descarregar essa energia de Urano antes de lev",
+    "slug": "agosto-2013-aries-voce-tem-que",
+    "date": "2013-08-24",
+    "category": "Arquivo Blog",
+    "excerpt": "Agôsto - 2013 Aries: Você tem que descarregar essa energia de Urano antes de levar um raio bem no meio da testa, falando figurativamente. Ande na terr...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "O OPOSTO SOLAR O Signo oposto ao seu Signo Solaréooque chamamos de oposto com",
+    "slug": "o-oposto-solar-o-signo-oposto-ao-seu_22",
+    "date": "2013-08-22",
+    "category": "Arquivo Blog",
+    "excerpt": "O OPOSTO SOLAR O Signo oposto ao seu Signo Solar é o oque chamamos de oposto complementar. Isso significa que se você nasceu com o Sol em Gêmeos, por...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Agosto de 2013 Os Planetas Transpessoais Urano, Netuno e Plutão A medida em que",
+    "slug": "agosto-de-2013-os-planetas",
+    "date": "2013-08-22",
+    "category": "Arquivo Blog",
+    "excerpt": "Agosto de 2013 Os Planetas Transpessoais Urano, Netuno e Plutão A medida em que Saturno vai se movendo no signo de Escorpião, mudanças substanciais vã...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "O Poder da Disciplina Nodo Norte em Escorpião",
+    "slug": "o-poder-da-disciplina-nodo-norte-em",
+    "date": "2013-08-16",
+    "category": "Arquivo Blog",
+    "excerpt": "O Poder da Disciplina Nodo Norte em Escorpião. Saturno em Escorpião. Ao contrário do que a maioria pensa, disciplina não é a capacidade de manter uma...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "A Lua acaba de entrar em Virgemeahumanidade prossegue em suas infindáveis tar",
+    "slug": "a-lua-acaba-de-entrar-em-virgem-e",
+    "date": "2013-08-08",
+    "category": "Arquivo Blog",
+    "excerpt": "A Lua acaba de entrar em Virgem e a humanidade prossegue em suas infindáveis tarefas cotidianas e rotineiras, com a sensação de que nada acontece, sem...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Astrologia que aprisiona",
+    "slug": "astrologia-que-aprisiona-dizer-que-voce",
+    "date": "2013-08-07",
+    "category": "Arquivo Blog",
+    "excerpt": "Astrologia que aprisiona! Dizer que você tem a Lua em Câncer portanto é chorona, sensível, a presença da sua mãe incomoda e dói mas você não consegue...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "SATURNO",
+    "slug": "saturno-voce-nao-se-da-conta-de-sua",
+    "date": "2013-08-07",
+    "category": "Arquivo Blog",
+    "excerpt": "SATURNO! Você não se dá conta de sua própria situação. Você está na prisão.Tudo o que pode desejar, se você for sensato, é escapar (...) - Gurdieff E...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "JOGOS DE PODER - Desmascarando a Matrix Sol e Lua em Leão recebendo um quincunce",
+    "slug": "jogos-de-poder-desmascarando-matrix-sol",
+    "date": "2013-08-06",
+    "category": "Arquivo Blog",
+    "excerpt": "JOGOS DE PODER - Desmascarando a Matrix Sol e Lua em Leão recebendo um quincunce de Plutão. jogos de manipulação e competição, antigo vício da humanid...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Tempo terrestre: 05-08-2013 Áries: Tempos de mudança em que você não pode determ",
+    "slug": "tempo-terrestre-05-08-2013-aries-tempos",
+    "date": "2013-08-05",
+    "category": "Arquivo Blog",
+    "excerpt": "Tempo terrestre: 05-08-2013 Áries: Tempos de mudança em que você não pode determinar o fluxo dos acontecimentos. Urano, seu regente na ponta de uma qu...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Tudo aponta para o Signo de Câncer",
+    "slug": "tudo-aponta-para-o-signo-de-cancer",
+    "date": "2013-08-03",
+    "category": "Arquivo Blog",
+    "excerpt": "Tudo aponta para o Signo de Câncer! Quatro planetas em Câncer, mais Lilith, recebem um Trígono de Netuno retrógrado. Águas do passado inundando as rel...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Poderoso Aspecto No Céu",
+    "slug": "poderoso-aspecto-no-ceu-hoje-no-ceu-um",
+    "date": "2013-08-01",
+    "category": "Arquivo Blog",
+    "excerpt": "Poderoso Aspecto No Céu! Hoje no céu um poderoso aspecto chamado Yod, Dedo de Deus, Mão de Deus ou Dedo do Destino. Esse aspecto envolve três tipos de...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "QUEM TEM OLHOS",
+    "slug": "quem-tem-olhos",
+    "date": "2013-07-20",
+    "category": "Arquivo Blog",
+    "excerpt": "QUEM TEM OLHOS... Conta a história que um número não significativo de pessoas se reuniu em frente ao palácio de Versalhes pedindo pão. A rainha incomo...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Trânsitos do Dia",
+    "slug": "transitos-do-dia-17-de-julho-de-2013",
+    "date": "2013-07-17",
+    "category": "Arquivo Blog",
+    "excerpt": "Trânsitos do Dia! 17 de julho de 2013 Uma quarta feira! A despeito de todas as aparentes dificuldades, agradeça ao Universo estar encarnado nesse mome...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Stellium planetário em câncer: a água que vem do céu",
+    "slug": "stellium-planetario-em-cancer-agua-que",
+    "date": "2013-07-16",
+    "category": "Arquivo Blog",
+    "excerpt": "STELLIUM PLANETÁRIO EM CÂNCER: A ÁGUA QUE VEM DO CÉU! Julho de 2013 O processo que a humanidade vem passando [e a limpeza do corpo psíquico. Isso é fu...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Ninguém foge a seu destino a não ser mudando sua frequência, e isso ninguém pode",
+    "slug": "ninguem-foge-seu-destino-nao-ser",
+    "date": "2013-07-13",
+    "category": "Arquivo Blog",
+    "excerpt": "Ninguém foge a seu destino a não ser mudando sua frequência, e isso ninguém pode fazer por você. Nem sempre isso é fácil, principalmente porque as pre...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "SATURNO EM MOVIMENTO DIRETO EM ESCORPIÃO Hoje, uma consciência crítica das limit",
+    "slug": "saturno-em-movimento-direto-em",
+    "date": "2013-07-11",
+    "category": "Arquivo Blog",
+    "excerpt": "SATURNO EM MOVIMENTO DIRETO EM ESCORPIÃO Hoje, uma consciência crítica das limitações que oprimem a humanidade começa a chegar ainda mais claramente p...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Eles podem ser reconhecidos pelo olhar franco e direto, pela segurança do aperto",
+    "slug": "aries",
+    "date": "2013-07-11",
+    "category": "Arquivo Blog",
+    "excerpt": "Eles podem ser reconhecidos pelo olhar franco e direto, pela segurança do aperto de mão e pela vitalidade transbordante. Irradiam energia vibrante e n...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Em Touro encontramos o enraizamento do que foi concebido em Áries",
+    "slug": "em-touro-encontramos-o-enraizamento-do",
+    "date": "2013-07-11",
+    "category": "Arquivo Blog",
+    "excerpt": "Em Touro encontramos o enraizamento do que foi concebido em Áries. Após elevar-se da terra em direção ao sol, a planta cria suas raízes no solo fixand...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "A Insustentável Leveza do Ser Gêmeos nasceu para levar, trazer, trocar, espalhar",
+    "slug": "gemeos",
+    "date": "2013-07-11",
+    "category": "Arquivo Blog",
+    "excerpt": "A Insustentável Leveza do Ser Gêmeos nasceu para levar, trazer, trocar, espalhar, disseminar, e isso vale para tudo, desde a palavra até a mercadoria....",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "As Águas Mães O quarto signo do zodíaco pertence a Câncer, signo das águas mães",
+    "slug": "cancer",
+    "date": "2013-07-11",
+    "category": "Arquivo Blog",
+    "excerpt": "As Águas Mães O quarto signo do zodíaco pertence a Câncer, signo das águas mães e registra o nascimento dos instintos afetivos, matriz de todas as mem...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Os Filhos do Sol Leão simboliza no plano da alma o encontro com o próprio self,",
+    "slug": "leao",
+    "date": "2013-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "Os Filhos do Sol Leão simboliza no plano da alma o encontro com o próprio self, o reconhecimento de si e a capacidade de criar no mundo. Regido pelo S...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Veja o senhor - continuou Haller - esse pequeno vestíbulo com o pinheirinho exal",
+    "slug": "virgem",
+    "date": "2013-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "Veja o senhor - continuou Haller - esse pequeno vestíbulo com o pinheirinho exala um odor tão prodigioso que não consigo passar por aqui sem me deter...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "O Equilíbrio Perfeito Após aprendermos a nos conhecer, começamos a conhecer o ou",
+    "slug": "libra",
+    "date": "2013-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "O Equilíbrio Perfeito Após aprendermos a nos conhecer, começamos a conhecer o outro. Em libra, o sétimo estágio do zodíaco, está o conceito de relação...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Após a etapa libriana em que aprendermos a nos relacionar, em escorpião o indivi",
+    "slug": "escorpiao",
+    "date": "2013-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "Após a etapa libriana em que aprendermos a nos relacionar, em escorpião o individuo aprende a relacionar-se consigo mesmo. Na etapa Libra, com freqüên...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "A inteligência é rebelde: quanto mais inteligente, mais rebelde",
+    "slug": "sagitario",
+    "date": "2013-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "A inteligência é rebelde: quanto mais inteligente, mais rebelde. E aqueles que não são rebeldes, que sempre dizem sim, estão quase mortos; você pode g...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Capricórnio desaprendeu de viver para aprender a sobreviver",
+    "slug": "capricornio",
+    "date": "2013-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "Capricórnio desaprendeu de viver para aprender a sobreviver. Não por acaso o animal que simboliza esse signo é a cabra com sua tremenda capacidade de...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Signo de ar fixo, Aquário racionaliza",
+    "slug": "aquario-signo-de-ar-fixo-aquario",
+    "date": "2013-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "Signo de ar fixo, Aquário racionaliza. Rege a amizade e a fraternidade entre os homens, são impessoais, futuristas e procuram viabilizar aquilo que fo...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "O homem nasce amnésico, esquecido de sua origem, ilusoriamente convencido de que",
+    "slug": "o-homem-nasce-amnesico-esquecido-de-sua",
+    "date": "2013-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "O homem nasce amnésico, esquecido de sua origem, ilusoriamente convencido de que não passa desse corpo limitado percebido pelos sentidos. Hubert Benoi...",
+    "tags": [],
+    "featured": false
+  },
+  {
+    "title": "Se um homem pudesse entender todo o horror da vida das pessoas comuns, que estão",
+    "slug": "gurdieff",
+    "date": "2013-07-10",
+    "category": "Arquivo Blog",
+    "excerpt": "Se um homem pudesse entender todo o horror da vida das pessoas comuns, que estão dando voltas num círculo de interesses insignificantes e insignifican...",
+    "tags": [],
     "featured": false
   }
 ]
